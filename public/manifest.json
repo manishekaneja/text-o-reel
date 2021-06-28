@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TextOReel",
+  "name": "\"Text-O-Reel\"",
+  "description": "A Thought never weakens. Share your thoughts with people around you and know more about other's perspectives.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#333333",
+  "background_color": "#333333"
 }
